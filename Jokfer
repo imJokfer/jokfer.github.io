@@ -1,6 +1,29 @@
-git clone https://github.com/imjokfer/jokfer.github.io
-cd Jokfer.github.io
-echo "Jokfer" > index.html
-git add --all
-git commit -m "Initial commit"
-git push -u origin main
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> JOKFER </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1> iM Owner Team Ghost Cyber </h1>
+            <p> t.me\imJokfer !</p>
+        </header>
+        <section class="bio">
+            <h2>درباره من</h2>
+            <p> IM GOD ... </p>
+        </section>
+        <section class="projects">
+            <h2>پروژه‌ها</h2>
+            <ul>
+                <li>پروژه 1: تحلیل آسیب‌پذیری</li>
+                <li>پروژه 2: ابزار هک وب</li>
+                <li>پروژه 3: ایجاد وب‌سایت امن</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
